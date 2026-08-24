@@ -1,11 +1,6 @@
 <h1 align="center">Hey, I'm David!</h1>
 <h3 align="center">Computer Engineering student (Data Science) @ UPO</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in%20progress-informational" />
-  <img src="https://img.shields.io/badge/focus-IA%20%7C%20systems-lightgrey" />
-</p>
-
 ---
 
 ### > about
@@ -14,6 +9,7 @@
 - comfortable with Python | learning C/C++
 - into Linux, systems, and building things from scratch instead of using black-box tools
 - I am currently trying to make a homelab and starting with more serious projects
+- Languages: Spanish; Learning English
 
 ---
 
@@ -21,7 +17,8 @@
 
 `Python` | `Linux` | `Bash`
 
-*(interested in expanding into more, like C C++ Java and more — actively picking things up as I go)*
+*(interested in expanding into more, like C C++ SQL and more — actively picking things up as I go)*
+*(interest in networks, cybersecurity, data and curious to understand the logic and processes of things)*
 
 ---
 
@@ -44,6 +41,8 @@
 
 ### > contact
 
-- GitHub → https://github.com/iDeiVoiDi 
-- LinkedIn → soon 
-- Email → ideivoidi08@gmail.com 
+| platform | link |
+|---|---|
+| GitHub | https://github.com/iDeiVoiDi |
+| LinkedIn | soon |
+| Email | ideivoidi08@gmail.com |
