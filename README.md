@@ -17,8 +17,8 @@
 
 `Python` | `Linux` | `Bash`
 
-*(interested in expanding into more, like C C++ SQL and more — actively picking things up as I go)*
-*(interest in networks, cybersecurity, data and curious to understand the logic and processes of things)*
+*(interested in expanding into more, like C C++ SQL and more — actively picking things up as I go)* <br>
+*(interested in networks, cybersecurity, data and curious to understand the logic and processes of things)*
 
 ---
 
