@@ -44,6 +44,6 @@
 
 ### > contact
 
-GitHub → https://github.com/iDeiVoiDi <br>
-LinkedIn → soon <br>
-Email → ideivoidi08@gmail.com <br>
+- GitHub → https://github.com/iDeiVoiDi 
+- LinkedIn → soon 
+- Email → ideivoidi08@gmail.com 
