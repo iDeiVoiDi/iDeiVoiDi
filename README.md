@@ -26,7 +26,7 @@
 
 | project | status | description |
 |---|---|---|
-| KYRO | planned | personal AI assistant — desktop client + future hardware companion |
+| K.Y.R.O. | planned | personal AI assistant — desktop client + future hardware companion |
 | Hyprland desktop | in progress | custom Wayland/Hyprland setup on Debian — Waybar + EWW widgets built from scratch |
 
 ---
