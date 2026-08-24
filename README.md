@@ -37,10 +37,6 @@
 ### > github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iDeiVoiDi&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iDeiVoiDi&theme=dracula&hide_border=true" />
 </p>
 
@@ -48,8 +44,6 @@
 
 ### > contact
 
-| platform | link |
-|---|---|
-| GitHub | [github.com/iDeiVoiDi] |
-| LinkedIn | [LINKEDIN URL] |
-| Email | [EMAIL] |
+GitHub → https://github.com/iDeiVoiDi 
+LinkedIn → soon
+Email → ideivoidi08@gmail.com
