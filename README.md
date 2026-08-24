@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-informational" />
-  <img src="https://img.shields.io/badge/focus-Linux%20%7C%20systems-lightgrey" />
+  <img src="https://img.shields.io/badge/focus-IA%20%7C%20systems-lightgrey" />
 </p>
 
 ---
