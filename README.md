@@ -1,5 +1,5 @@
-<h1 align="center">iDeiVoiDi</h1>
-<h3 align="center">Computer Engineering student (Data Science) @ UPO</h3>
+<h1 align="center">Hey, I'm David!</h1>
+<h3 align="center" style="color: #cccccc;">Computer Engineering student (Data Science) @ UPO</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-informational" />
