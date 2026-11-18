@@ -6,9 +6,10 @@
 ### > about
 
 - studying Computer Engineering — Data Science track — @UPO
-- comfortable with Python | learning Java SQL and C
+- comfortable with Python | learning Java SQLite and C++
+- studying HTML CSS and JS
 - into Linux, systems, and building things from scratch instead of using black-box tools
-- I am currently trying to make a homelab and starting with more serious projects
+- I am currently trying to start with more serious projects
 - Languages: Spanish; Learning English
 
 ---
@@ -17,7 +18,8 @@
 
 `Python` | `Linux` | `Bash`
 
-*(interested in expanding into more, like C C++ SQL Java and more — actively picking things up as I go)* <br>
+*(interested in expanding into more, like C C++ SQLite Java and more — actively picking things up as I go)* <br>
+*(interested in expanding my knowledge to include frontend languages—such as HTML, CSS, and JS—and I am working on group projects to learn them.)* <br>
 *(interested in networks, cybersecurity, data and curious to understand the logic and processes of things)*
 
 ---
@@ -26,21 +28,13 @@
 
 | project | status | description |
 |---|---|---|
-| K.Y.R.O. | planned | personal AI assistant — desktop client + future hardware companion |
-| RPG nameless | in progress | Trying a python game with a pygame GUI to learn |
-| Casino | in progress | Trying a python game with a database and GUI in pygame to learn |
-| Mod Minecraft | in progress | Trying to create a mod in minecraft |
-| Hyprland desktop | finished | custom Wayland/Hyprland setup on Debian — Waybar + EWW widgets built from scratch |
+| K.Y.R.O. *| planned | personal AI assistant — desktop client + future hardware companion |
 | HabBOT | finished | A bot for the Habbo market which sends a message to disc or telegram |
-
-
----
-
-### > github stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iDeiVoiDi&theme=dracula&hide_border=true" />
-</p>
+| Genetic Algorithm | finished | Algorithm for finding a word |
+| Car Neural Network | in progress | A neural network that drives a car |
+| Kyro Particles | waiting | Particles with small neural networks |
+| Mod Minecraft | paused | Trying to create a mod in minecraft |
+| Hyprland desktop | finished | custom Wayland/Hyprland setup on Debian — Waybar + EWW widgets built from scratch |
 
 ---
 
