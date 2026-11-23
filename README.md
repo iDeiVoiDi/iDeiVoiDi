@@ -31,7 +31,7 @@
 | K.Y.R.O. *| planned | personal AI assistant — desktop client + future hardware companion |
 | HabBOT | finished | A bot for the Habbo market which sends a message to disc or telegram |
 | Genetic Algorithm | finished | Algorithm for finding a word |
-| Car Neural Network | in progress | A neural network that drives a car |
+| Car Neural Network | finished | A neural network that drives a car |
 | Kyro Particles | waiting | Particles with small neural networks |
 | Mod Minecraft | paused | Trying to create a mod in minecraft |
 | Hyprland desktop | finished | custom Wayland/Hyprland setup on Debian — Waybar + EWW widgets built from scratch |
